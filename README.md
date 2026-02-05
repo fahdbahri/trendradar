@@ -1,4 +1,4 @@
-# Tech News
+# Trend Finder
 
 ### Keep up with trending topics about new technologies all in one place for free.
 
