@@ -1,9 +1,9 @@
-# Trend Finder
+# Trend Radar
 
 ### Keep up with trending topics about new technologies all in one place for free.
 
 
-Trend Finder is a solution for developers who are struggling to keep up with new trends, it analyzes from popular platforms, then sends it to Telegram.
+Trend Radar is a solution for developers who are struggling to keep up with new trends, it analyzes from popular platforms, then sends it to Telegram.
 
 
 ## Demo
